@@ -1,2 +1,2 @@
 # Penjualan-Tiket-Bioskop
-C programming
+C - Programming
